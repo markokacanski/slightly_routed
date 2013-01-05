@@ -6,7 +6,7 @@ Slightly Routed is a small web framework which let's you create php websites whi
 ## Why should i use this?
 
 You want to build a template driven website with url routing (so that the Google loves you), but all other frameworks are just too big and do waaaaay more than you need. 
-Also, you would prefer if you could just make the pages in plain html/js with some php peppered around. You don't want to learn a new templating language just for that
+Also, you would prefer if you could just make the pages in plain html/js with some php peppered around. You don't want to learn a new templating language just for that.
 
 
 ## What do i need?
